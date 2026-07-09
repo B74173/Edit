@@ -31,5 +31,3 @@ https://freem3u.xyz/api/live/play.mpd?vid=99
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/41wJdvL/history.png",History
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 
-#EXTINF:-1 tvg-id="historyhd" group-title="🌐 Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png", History HD
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9856
